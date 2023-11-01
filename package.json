@@ -1,0 +1,23 @@
+{
+  "name": "binance-toolbox-typescript",
+  "version": "1.0.0",
+  "description": "A few scripts that show how to use the Binance connectore @binance/connector-typescript",
+  "scripts": {
+    "account": "ts-node ./src/account.ts",
+    "market": "ts-node ./src/market.ts",
+    "place-order": "ts-node ./src/place-order.ts",
+    "websocket": "ts-node ./src/websocket.ts"
+  },
+  "keywords": [
+    "Binance"
+  ],
+  "author": "Binance",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.8",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@binance/connector-typescript": "^0.3.3"
+  }
+}
