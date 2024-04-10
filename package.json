@@ -1,6 +1,6 @@
 {
   "name": "binance-toolbox-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A few scripts that show how to use the Binance connectore @binance/connector-typescript",
   "scripts": {
     "account": "ts-node ./src/account.ts",
