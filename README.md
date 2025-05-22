@@ -1,4 +1,6 @@
-# Binance Toolbox Typescript
+# Binance Toolbox Typescript - DEPRECATED
+
+**The Binance connector `@binance/connector-typescript` is deprecated. For more information on how to use the new [`binance-connector-js`](https://github.com/binance/binance-connector-js/tree/master/clients), please refer to the examples and documentation available in each product folder.**
 
 A few scripts that showing how to use the Binance connector `@binance/connector-typescript`.
 ## Preparation
